@@ -11,12 +11,17 @@
   "dependencies": {
     "next": "11.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-relay": "^11.0.2",
+    "relay-runtime": "^11.0.2"
   },
   "devDependencies": {
     "@types/react": "17.0.18",
+    "babel-plugin-relay": "^11.0.2",
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.0",
+    "graphql": "^15.5.1",
+    "relay-compiler": "^11.0.2",
     "typescript": "4.3.5"
   }
 }
